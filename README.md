@@ -2,6 +2,9 @@
 
 my simple config for ghostty terminal
 
+> [!NOTE]
+> This config is opinionated and created by Abanoub Hanna, for Abanoub Hanna. You can use it as you like.
+
 ## content of my ghostty config
 
 set fish shell as my shell of choice:
